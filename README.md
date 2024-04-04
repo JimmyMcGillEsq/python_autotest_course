@@ -1,5 +1,5 @@
-# python_autotest_course
+# Python Autotest Course
 
-Homework projects for the course.
-
-I'll add my autotests to this repository.
+## Homework projects for the course.
+\n
+I'll add my autotests to this repository. Now I have 
